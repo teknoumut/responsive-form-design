@@ -1,0 +1,26 @@
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+.navbar-dark .navbar-toggler{
+    border:none;
+}
+.text-logo{
+    font-size: 1.75rem;
+    text-decoration: none;
+    text-transform: capitalize; 
+}
+
+
+.bg-color{
+    background: #161616; 
+    
+}
+.social_icons i{
+   font-size: 1.55rem;
+   color: white;
+   margin-right: .6em;
+}
+.social_icons i:hover{
+    color: rgb(11, 224, 224);
+    transition: 0.5s;
+}
